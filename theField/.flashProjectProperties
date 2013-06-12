@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1226642334796</id>
+  <name>theField</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Documents and Settings/Administrator/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Documents and Settings/Administrator/Local Settings/Application Data/Adobe/Flash CS4/en/Configuration/Project/templates/NewClassAS3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///D|/home/Flash/things/theField/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Blur.as">file:///D|/home/Flash/things/theField/Blur.as</uri>
+    <uri label="GetRand.as">file:///D|/home/Flash/things/theField/theField/GetRand.as</uri>
+    <uri label="theField.fla">file:///D|/home/Flash/things/theField/theField.fla</uri>
+    <uri label="TheField.as">file:///D|/home/Flash/things/theField/theField/TheField.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
